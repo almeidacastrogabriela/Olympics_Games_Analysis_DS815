@@ -34,17 +34,17 @@ In this repository it's possible to find:
 The project consisted into answering the following questions:
 
 Assesing Brazil's Participation at the Olympics:
-*Question 1*. Creating a new dataframe containing only the information of brazilian athletes. 
+**Question 1**. Creating a new dataframe containing only the information of brazilian athletes. 
 
-*Question 2*. Possible correlation between an athlete's hight and one's performance at the sport played. Include a gender analysis for the same hight vs performance question.
+**Question 2**. Possible correlation between an athlete's hight and one's performance at the sport played. Include a gender analysis for the same hight vs performance question.
 Generate graphs to complement the findings.
 Making the task easier: it's allowed to assess only the sports that have at least 5 winning medal athletes.
 
-*Question 3*. Analyzing the medals brought home by Brazilian athletes. Creating visual representations to demonstrate, by sport, the medal proportion the country has won.
+**Question 3**. Analyzing the medals brought home by Brazilian athletes. Creating visual representations to demonstrate, by sport, the medal proportion the country has won.
 Making the task easier: If you must, exhibit the proportions only for the 6 sports that had the majority of medals acquired.
 NOTE: Pay attention! Team sports provide medals to all the players, but must be counted only ONCE!
 
-*Question 4*. Creating a temporal series of Brazilian medals, exhibiting Gold, Silver and Bronze medals in chronological order for each Olympics Edition.
+**Question 4**. Creating a temporal series of Brazilian medals, exhibiting Gold, Silver and Bronze medals in chronological order for each Olympics Edition.
 NOTE: Pay attention! Team sports provide medals to all the players, but must be counted only ONCE!
 
-*Question 5*. Choose an analysis considered interesting for this dataset. Implement the necessary visualization and comment the findings.
+**Question 5**. Choose an analysis considered interesting for this dataset. Implement the necessary visualization and comment the findings.
